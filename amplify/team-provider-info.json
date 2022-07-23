@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-objectdetection2-dev-155440-authRole",
+      "UnauthRoleArn": "arn:aws:iam::363410550794:role/amplify-objectdetection2-dev-155440-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::363410550794:role/amplify-objectdetection2-dev-155440-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-objectdetection2-dev-155440-deployment",
+      "UnauthRoleName": "amplify-objectdetection2-dev-155440-unauthRole",
+      "StackName": "amplify-objectdetection2-dev-155440",
+      "StackId": "arn:aws:cloudformation:us-east-1:363410550794:stack/amplify-objectdetection2-dev-155440/4dadb8f0-0ac1-11ed-b0c7-0e5fb6478cd3",
+      "AmplifyAppId": "dmwagoe66cep0"
+    }
+  }
+}
