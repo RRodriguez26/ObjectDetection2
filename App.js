@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import ImagePicker from 'react-native-image-picker';
 import Amplify, {API} from 'aws-amplify';
-import Video from 'react-native-video';
+//import Video from 'react-native-video';
  
 // Amplify configuration for API-Gateway
 Amplify.configure({
